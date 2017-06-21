@@ -1,2 +1,2 @@
-# first-repo
-well this is kind of a test
+# Database authorization
+Sqlite3 authorization script in Python 2.7
